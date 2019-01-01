@@ -4,7 +4,7 @@ bio:                '시작은 개발새발이였지만 그 끝은 창대하리�
 description:        "description"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/.png'
+logo:               'assets/img/gaebalsaebal_22.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
