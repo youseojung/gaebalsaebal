@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GCP "
+title:  "GCP 생성하기"
 date:   2019-01-07
-excerpt: "dddddddddd"
+excerpt: "GCP 환경 세팅"
 tag:
 - markdown 
 - syntax
