@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "GCP 생성하기"
-date:   2019-01-07
-excerpt: "GCP 환경 세팅"
+title:  "마사회 API 세팅"
+date:   2019-04-14
+excerpt: "마사회 환경 세팅"
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- 마사회 
+- RESTAPI
+- API
 comments: true
 ---
 
