@@ -22,28 +22,18 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                   
-                    {% for operation in site.posts %} 
-                        {% if operation.project == null %}
-                     ttttttttttttttttttttttttttttttttttttt
+                    {% for post in site.posts %} 
+                        {% if post.project %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ operation.url }}">{{ operation.title }}</a>
-                            <p>{{ post.excerpt }}</p> 
-                            <a href="{{ site.url }}{{ operation.url }}" class="btn zoombtn">Read More</a>
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
-                        {% endif %}
-                   ttststse
+                      {% endif %}
                     {% endfor %}
                 </div>
-                dfdfdf
-                {{ site.Operations }} aktkddp
-                 {{ site.operation }} aktkddp
-                {% for operation in site.operations %} 
-                <a href="#">dddd</a>
-                {% endfor %}
-                
             </div>
         </div>
     </header>
