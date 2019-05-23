@@ -1,10 +1,14 @@
 # Site navigation links
 
-- title: Projects2
+#- title: Projects
+#  url: /projects/
+
+- title: Projects
   url: /projects/
-  - title: Operations
+
+
+- title: Operations
   url: /Operations/
-    - title: Operations
-  url: /operations/
+
   
   
