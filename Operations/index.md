@@ -1,6 +1,6 @@
 ---
 layout: operation
-title: All Operations
+title: All Operations!!
 excerpt: "A List of Operations"
 comments: false
 ---
