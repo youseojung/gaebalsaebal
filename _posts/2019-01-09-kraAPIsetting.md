@@ -3,6 +3,7 @@ layout: post
 title:  "마사회 API 세팅"
 date:   2019-04-14
 excerpt: "마사회 환경 세팅"
+Operation : true
 tag:
 - 마사회 
 - RESTAPI
