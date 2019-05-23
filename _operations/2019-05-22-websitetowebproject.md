@@ -1,8 +1,9 @@
 ---
-layout: Operation
+layout: post
 title:  "웹사이트를 웹프로젝트로 변경 "
 date:   2019-05-22
 excerpt: "-"
+operations : true
 tag:
 - 웹응용프로그램 
 comments: true
