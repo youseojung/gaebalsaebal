@@ -33,7 +33,7 @@ appcmd :인터넷정보서비스를 빠르게 제어할수있는 커맨드
 
 ```cs
 
-c:\windows\system32\inetsrv\appcmd add site /name:"[사이트이름]" /bindings:http://[사이트이름].yes24.com:80 /physicalPath:"D:\MOVIE\[사이트이름]"
+c:\windows\system32\inetsrv\appcmd add site /name:"[사이트이름]" /bindings:http://[URL]:80 /physicalPath:"D:\MOVIE\[사이트이름]"
 <-- 가상 사이트를 만든다-->
 
 c:\windows\system32\inetsrv\appcmd add apppool /name:[사이트이름] /managedRuntimeVersion:v2.0
