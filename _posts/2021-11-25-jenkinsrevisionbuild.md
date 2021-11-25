@@ -15,8 +15,8 @@ comments: true
 
 (jquery.hpi , git-parameter.hpi 플러그인 설치해줘야함)
 
-![jenkins](https://github.com/youseojung/youseojung.github.io/blob/master/IMG/postImg/jenkinsSetting%20%20StringParameter.png)
-![jenkins](https://github.com/youseojung/youseojung.github.io/blob/master/IMG/postImg/jenkinsSetting%20%20StringParameter2.png)
+![jenkins](https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/postImg/jenkinsSetting%20%20StringParameter.png)
+![jenkins](https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/postImg/jenkinsSetting%20%20StringParameter2.png)
 유의할점 : String Parmeter 로 세팅하여 매개변수명과  소스코드관리의 Branch Specifier ${매개변수명} 이 같아야함
 <br>
 <br>
