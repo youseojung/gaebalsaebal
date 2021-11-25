@@ -27,8 +27,9 @@ comments: true
 <br>
 <br>
 <br>
-![jenkins](https://github.com/youseojung/youseojung.github.io/blob/master/IMG/postImg/jenkinsSettingStringParameter3.png)
-![jenkins](https://github.com/youseojung/youseojung.github.io/blob/master/IMG/postImg/jenkinsSettingStringParameter4.png)
+
+![jenkins](https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/postImg/jenkinsSettingStringParameter3.png)
+![jenkins](https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/postImg/jenkinsSettingStringParameter4.png)
 파라미터 값 안에 리비전번호(커밋번호) / 태그명을 넣으면 해당하는 소스가 빌드된다.
 
 
