@@ -47,14 +47,37 @@ comments: false
      </td>
   </tr>
 </table>
-
 </div>
 </details>
     
-    
-
 
 <BR><BR>
+    
+<details>
+<summary><h4>경력기술서</h4></summary>
+<div markdown="1">
+<table>
+  <tr>  
+    <td style="background-color: #ada980; width:30%; text-align: center;">경력 기술서</td>
+    <td>
+1. 사내 고객관리 시스템(CRM) 개발(2016.04~2016.06)<BR>
+- 사내 고객관리 시스템 개발<BR>
+- Window, ASP .NET, MY-SQL, Jquery, MVC패턴, MyBatis , svn<BR>
+- 담당부분: 백앤드 및 프론트 개발.<BR>
+      </td>
+  </tr>
+  <tr>
+    <td style="background-color: #ada980; width:30%; text-align: center;">
+   </td>
+    <td>
+2. 인텔리안 테크놀러지(http://intelliantech.co.kr/) 유지보수 운영 (2016.06 ~ )
+- Ubuntu, PgSQL, ruby, jquery , github , AWS 클라우드 서비스 이용
+- 담당부분: 웹사이트 유지보수 및 리뉴얼 작업 진행.
+     </td>
+  </tr>
+</table>
+</div>
+</details>
 
 ## Preview
 ---
