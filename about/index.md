@@ -58,14 +58,15 @@ comments: false
 <div markdown="1">
 <table>
   <tr>  
-    <td style="background-color: #ada980; width:20%; text-align: center;" rowspan=7>경력 기술서</td>
+    <td style="background-color: #ada980; width:20%; text-align: center;" rowspan=8>경력 기술서</td>
     <td>
 1. 사내 고객관리 시스템(CRM) 개발(2016.04~2016.06)<BR>
 - 사내 고객관리 시스템 개발<BR>
 - Window, ASP .NET, MY-SQL, Jquery, MVC패턴, MyBatis , svn<BR>
 - 담당부분: 백앤드 및 프론트 개발.<BR>
-      </td>
+  </td>
   </tr>
+        FF
   <tr>
     <td>
 2. 인텔리안 테크놀러지(http://intelliantech.co.kr/) 유지보수 운영 (2016.06 ~ )<BR>
@@ -114,6 +115,7 @@ comments: false
 - java, spring , jsp , Jquery<BR>
  </td>
 </tr>
+    
 <tr>
 <td>
 8. YES24 영화 사이트 관리
