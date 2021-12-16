@@ -23,7 +23,7 @@ comments: false
 ## 업무경험 및 경력사항
 ---
 <details> 
-    <summary>#### 경력사항</summary> 
+    <summary경력사항</summary> 
     
     <!-- summary 아래 한칸 공백 두어야함 -->
 
