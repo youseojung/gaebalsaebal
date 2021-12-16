@@ -28,7 +28,6 @@ comments: false
 <table>
   <tr>
     <td style="background-color: #bbac9f; width:30%; text-align: center;">YES24<BR> ENT개발팀/사원<BR>
-        <BR>
         (2018. 08 ~ 재직중)</td>
     <td>
         YES24 - ENT 개발팀에서 영화개발 파트에서 웹개발 및 유지보수 운영을 담당하였습니다.<BR>
@@ -39,7 +38,6 @@ comments: false
   </tr>
   <tr>
     <td style="background-color: #bbac9f; width:30%; text-align: center;">인텔리안 시스템즈<BR>DS사업부/사원<BR>
-    <BR>
     (2016. 04 ~ 2018. 08)</td>
     <td>
       디지털사이니지 솔루션 개발팀에서 웹개발을 담당하였으며 부가적으로 자회사 홈페이지 추가 개발 및 유지보수 업무를 진행하였습니다.<BR>
@@ -50,7 +48,6 @@ comments: false
 </div>
 </details>
     
-
 <BR><BR>
     
 <details>
