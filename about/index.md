@@ -24,8 +24,26 @@ comments: false
 ---
 <details> 
     <summary경력사항</summary> 
-    
-    <!-- summary 아래 한칸 공백 두어야함 -->
+   
+    <table>
+  <tr>
+    <th>재직</th>
+    <th>경력</th>
+  </tr>
+  <tr>
+    <td>내용</td>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <td>(2016. 04 ~ 2018. 08) 2년 5개월</td>
+    <td>
+        인텔리안시스템즈 ds사업부 사원
+      디지털사이니지 솔루션 개발팀에서 웹개발을 담당
+하였으며 부가적으로 자회사 홈페이지 추가 개발 및 유지보수 업무를 진행하였습니다, 정부 연구과제 관련 개발을 담당하며 JAVA,C#,ASP.NET 을 기반
+으로 Classic asp, jsp,ruby on rails 관련 프로젝트 개발을 진행 였습니다.
+     </td>
+  </tr>
+</table>
 
 </details> 
 
