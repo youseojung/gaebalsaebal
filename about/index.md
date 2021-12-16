@@ -54,72 +54,70 @@ comments: false
 <summary><h4>경력기술서</h4></summary>
 <div markdown="1">
 <table>
-  <tr>  
+<tr>  
     <td style="background-color: #ada980; width:20%; text-align: center;" rowspan=8>경력 기술서</td>
     <td>
-1. 사내 고객관리 시스템(CRM) 개발(2016.04~2016.06)<BR>
-- 사내 고객관리 시스템 개발<BR>
-- Window, ASP .NET, MY-SQL, Jquery, MVC패턴, MyBatis , svn<BR>
-- 담당부분: 백앤드 및 프론트 개발.<BR>
+    1. 사내 고객관리 시스템(CRM) 개발(2016.04~2016.06)<BR>
+    - 사내 고객관리 시스템 개발<BR>
+    - Window, ASP .NET, MY-SQL, Jquery, MVC패턴, MyBatis , svn<BR>
+    - 담당부분: 백앤드 및 프론트 개발.<BR>
   </td>
-  </tr>
-        FF
-  <tr>
-    <td>
-2. 인텔리안 테크놀러지(http://intelliantech.co.kr/) 유지보수 운영 (2016.06 ~ )<BR>
-- Ubuntu, PgSQL, ruby, jquery , github , AWS 클라우드 서비스 이용<BR>
-- 담당부분: 웹사이트 유지보수 및 리뉴얼 작업 진행.<BR>
-     </td>
-  </tr>
- 
-   </td>
-    <td>
-3. 뉴스킨 NFC 관련 웹사이트 제작(2016.11~2017.02)<BR>
-(https://wicdigital.nuskinkorea.co.kr/Nuskin/Dprod/M_Nfc_Prod_Info.do?NFC_ID=04455042D84980)<BR>
-- 제품에 부착된 NFC 태그 입력 시 관련 제품에 대한 정보를 보여주는 웹사이트 개발 진행.<BR>
-- Window, Java, Spring, Jsp, Kendo 라이브러리, Html5<BR>
-- 담당부분: 프론트앤드 개발 진행.<BR>
-     </td>
-  </tr>
-  <tr>
-  
-    <td>
-4. 강남 세브란스 진료표 웹 페이지개발(2017.04~2017.05)<BR>
-- 요일별 진료과 안내표 페이지 개발<BR>
-- Window, ASP .NET, MSSQL, Jquery ,IIS<BR>
-- 담당부분: 백앤드 및 프론트 개발 진행.<BR>
-     </td>
-  </tr>
-  <tr>
-  
-    <td>
-5. I-Vision SaaS 솔루션 고도화(2017.08~2018.01)<BR>
-- 회사 자체 솔루션 웹페이지 고도화<BR>
--Window , ASP .Net , c# , Ms-Sql, 프로시저 , Jquery (js tree , jquery-fileupload , validation 라이브러리 이용), IIS , Svn<BR>
-     </td>
-  </tr>
-  <tr>
-    <td>
-6. IOT 스마트 요양원 개발(2018.02 ~ 03)<BR>
-- 상황인지 기반 스마트 사이니지 서비스 플랫폼<BR>
-- java, spring , jsp, RestAPI , Jquery<BR>
-     </td>
-  </tr>
+</tr>
+        
 <tr>
-<td>
-7. I-Vision Shelf order 페이지 개발(2018.04 ~ 05)<BR>
-- 무인상품 주문 시스템에 들어가는 웹페이지 개발<BR>
-- java, spring , jsp , Jquery<BR>
- </td>
+    <td>
+    2. 인텔리안 테크놀러지(http://intelliantech.co.kr/) 유지보수 운영 (2016.06 ~ )<BR>
+    - Ubuntu, PgSQL, ruby, jquery , github , AWS 클라우드 서비스 이용<BR>
+    - 담당부분: 웹사이트 유지보수 및 리뉴얼 작업 진행.<BR>
+    </td>
+</tr>
+<tr>
+    <td>
+    3. 뉴스킨 NFC 관련 웹사이트 제작(2016.11~2017.02)<BR>
+    (https://wicdigital.nuskinkorea.co.kr/Nuskin/Dprod/M_Nfc_Prod_Info.do?NFC_ID=04455042D84980)<BR>
+    - 제품에 부착된 NFC 태그 입력 시 관련 제품에 대한 정보를 보여주는 웹사이트 개발 진행.<BR>
+    - Window, Java, Spring, Jsp, Kendo 라이브러리, Html5<BR>
+    - 담당부분: 프론트앤드 개발 진행.<BR>
+    </td>
+</tr>
+<tr>
+    <td>
+    4. 강남 세브란스 진료표 웹 페이지개발(2017.04~2017.05)<BR>
+    - 요일별 진료과 안내표 페이지 개발<BR>
+    - Window, ASP .NET, MSSQL, Jquery ,IIS<BR>
+    - 담당부분: 백앤드 및 프론트 개발 진행.<BR>
+    </td>
+</tr>
+        
+<tr>
+    <td>
+    5. I-Vision SaaS 솔루션 고도화(2017.08~2018.01)<BR>
+    - 회사 자체 솔루션 웹페이지 고도화<BR>
+    -Window , ASP .Net , c# , Ms-Sql, 프로시저 , Jquery (js tree , jquery-fileupload , validation 라이브러리 이용), IIS , Svn<BR>
+    </td>
+</tr>
+<tr>
+    <td>
+    6. IOT 스마트 요양원 개발(2018.02 ~ 03)<BR>
+    - 상황인지 기반 스마트 사이니지 서비스 플랫폼<BR>
+    - java, spring , jsp, RestAPI , Jquery<BR>
+    </td>
+</tr>
+<tr>
+    <td>
+    7. I-Vision Shelf order 페이지 개발(2018.04 ~ 05)<BR>
+    - 무인상품 주문 시스템에 들어가는 웹페이지 개발<BR>
+    - java, spring , jsp , Jquery<BR>
+    </td>
 </tr>
     
 <tr>
-<td>
-8. YES24 영화 사이트 관리
-(2018.08 ~ )<BR>
-- 영화 예매서비스 페이지 추가개발 및 유지보수<BR>
-- Window , ASP .Net , c# , Ms-Sql, 프로시저 , Jquery<BR>
- </td>
+    <td>
+    8. YES24 영화 사이트 관리
+    (2018.08 ~ )<BR>
+    - 영화 예매서비스 페이지 추가개발 및 유지보수<BR>
+    - Window , ASP .Net , c# , Ms-Sql, 프로시저 , Jquery<BR>
+    </td>
 </tr>
 </table>
 </div>
