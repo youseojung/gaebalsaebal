@@ -26,7 +26,6 @@ comments: false
     <summary경력사항</summary> 
 <div class="table1-wrapper">
 <table>
-  
   <tr>
     <td>2018. 08 ~ 재직중 예스이십사 ENT개발팀 사원</td>
     <td>YES24 - ENT 개발팀에서 영화개발 파트에서 웹개발 및 유지보수 운영을 담당하였습니다.
@@ -66,16 +65,12 @@ To learn how to install and use this theme check out the [Setup Guide](http://ta
 
  
     
-    <style>
+ <style>
 .table1-wrapper {
   overflow-x: auto; /* responsive */
 }
-.table1 {
-  width: 100%; /* responsive */
-  border-collapse: collapse;
-}
-.table1 th, .table1 td {
-  padding: 10px;
-  border: 1px solid #ddd;
+tr:hover
+{
+    background-color: #BDBDBD;
 }
 </style>
