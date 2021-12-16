@@ -23,7 +23,9 @@ comments: false
 ## 업무경험 및 경력사항
 ---
 <details> 
+    
     <summary경력사항</summary> 
+    
 <div class="table1-wrapper">
 <table>
   <tr>
@@ -42,10 +44,12 @@ comments: false
   </tr>
 </table>
 <div>
+    
 </details> 
+    
 
 
-
+<BR><BR>
 
 ## Preview
 ---
