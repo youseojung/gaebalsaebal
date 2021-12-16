@@ -22,28 +22,14 @@ comments: false
     
 ## 업무경험 및 경력사항
 ---
-    
-    <details>
-<summary>접기/펼치기 버튼</summary>
+    background-color: #bbac9f;
+<details>
+<summary>경력사항</summary>
 <div markdown="1">
 
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
-
-</div>
-</details>
-    
-    
-<details> 
-    
-    <summary경력사항</summary> 
-    
-<div class="table1-wrapper">
 <table>
   <tr>
-    <td>2018. 08 ~ 재직중 예스이십사 ENT개발팀 사원</td>
+    <td style="background-color: #bbac9f;">2018. 08 ~ 재직중 예스이십사 ENT개발팀 사원</td>
     <td>YES24 - ENT 개발팀에서 영화개발 파트에서 웹개발 및 유지보수 운영을 담당하였습니다.
 매달 정산내역 손실/유무판별/ 예매 실패 사유/이벤트 업무/인증서 교체/카드 프로모션 변경 작업 등을 진행하였습니다.</td>
   </tr>
@@ -57,9 +43,10 @@ comments: false
      </td>
   </tr>
 </table>
-<div>
+
+</div>
+</details>
     
-</details> 
     
 
 
