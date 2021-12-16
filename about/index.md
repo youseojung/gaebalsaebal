@@ -27,20 +27,23 @@ comments: false
 <div markdown="1">
 <table>
   <tr>
-    <td style="background-color: #bbac9f; width:30%; text-align: center;">2018. 08 ~ 재직중  
+    <td style="background-color: #bbac9f; width:30%; text-align: center;">예스이십사 ENT개발팀 / 사원
         <BR>
-        예스이십사 ENT개발팀 사원</td>
-    <td>YES24 - ENT 개발팀에서 영화개발 파트에서 웹개발 및 유지보수 운영을 담당하였습니다.
-매달 정산내역 손실/유무판별/ 예매 실패 사유/이벤트 업무/인증서 교체/카드 프로모션 변경 작업 등을 진행하였습니다.</td>
+        (2018. 08 ~ 재직중)</td>
+    <td>
+        YES24 - ENT 개발팀에서 영화개발 파트에서 웹개발 및 유지보수 운영을 담당하였습니다.
+        운영업무 : 서버관리 /매달 정산내역 손실판별/ 예매 실패 로그 확인 /이벤트 업무 / 인증서 교체 /카드 프로모션 변경작업 등을 진행하였습니다.
+        개발업무 : PLAY24 닷넷 프레임워크 업그레이드 / 영화 사이트 개편 / 영화 스케줄API 리뉴얼 / 영화 제휴사 사이트 리뉴얼 / 영화 어드민 개편
+                  극장특가(반값티켓) 프로모션 개발 / 발권극장 사이트 개발 을 진행하였습니다.
+      </td>
   </tr>
   <tr>
-    <td style="background-color: #bbac9f; width:30%; text-align: center;">(2016. 04 ~ 2018. 08)  
+    <td style="background-color: #bbac9f; width:30%; text-align: center;">인텔리안 시스템즈 DS사업부 / 사원 
     <BR>
-    ds사업부 사원</td>
+    (2016. 04 ~ 2018. 08)  </td>
     <td>
-      디지털사이니지 솔루션 개발팀에서 웹개발을 담당
-하였으며 부가적으로 자회사 홈페이지 추가 개발 및 유지보수 업무를 진행하였습니다, 정부 연구과제 관련 개발을 담당하며 JAVA,C#,ASP.NET 을 기반
-으로 Classic asp, jsp,ruby on rails 관련 프로젝트 개발을 진행 였습니다.
+      디지털사이니지 솔루션 개발팀에서 웹개발을 담당하였으며 부가적으로 자회사 홈페이지 추가 개발 및 유지보수 업무를 진행하였습니다, 
+        정부 연구과제 관련 개발을 담당하며 JAVA,C#,ASP.NET 을 기반으로 Classic asp, jsp,ruby on rails 관련 프로젝트 개발을 진행 였습니다.
      </td>
   </tr>
 </table>
