@@ -10,7 +10,7 @@ comments: false
 <img src="https://youseojung.github.io/assets/img/gaebalsaebal_22.png"  style="border-radius: 70%;" width="370" height="370">
 <center><a href="http://youseojung.github.io"><b>서정의 gitBlog</b></a> 입니다.</center>
 
-## Features (post 안내) 
+## Post
 ---
 * PortFolio (포트폴리오)
 * Projects (개인 프로젝트)
@@ -18,8 +18,13 @@ comments: false
 * Study (개인 공부내용)
 * DB (데이터베이스 관련 이슈 정리)
 
-
-<center><b>업무경험 및 경력사항</b></center>
+## 업무경험 및 경력사항
+---
+<b>경력사항</b>
+## 접기 시작 <details> <summary>접기/펼치기</summary> 
+    <!-- summary 아래 한칸 공백 두어야함 -->
+## 접은 제목 접은 내용 </details> 
+## 접기 끝
 
 ## Preview
 ---
