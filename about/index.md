@@ -27,13 +27,13 @@ comments: false
 <div markdown="1">
 <table>
   <tr>
-    <td style="background-color: #bbac9f; width:30%">2018. 08 ~ 재직중  
+    <td style="background-color: #bbac9f; width:30%; text-align: center;">2018. 08 ~ 재직중  
         예스이십사 ENT개발팀 사원</td>
     <td>YES24 - ENT 개발팀에서 영화개발 파트에서 웹개발 및 유지보수 운영을 담당하였습니다.
 매달 정산내역 손실/유무판별/ 예매 실패 사유/이벤트 업무/인증서 교체/카드 프로모션 변경 작업 등을 진행하였습니다.</td>
   </tr>
   <tr>
-    <td style="background-color: #bbac9f; width:30%">(2016. 04 ~ 2018. 08)  
+    <td style="background-color: #bbac9f; width:30%; text-align: center;">(2016. 04 ~ 2018. 08)  
     ds사업부 사원</td>
     <td>
       디지털사이니지 솔루션 개발팀에서 웹개발을 담당
