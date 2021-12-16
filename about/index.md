@@ -23,7 +23,7 @@ comments: false
 ## 업무경험 및 경력사항
 ---
 <details>
-<summary>### 경력사항</summary>
+<summary><h5>경력사항</h5></summary>
 <div markdown="1">
 <table>
   <tr>
