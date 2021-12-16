@@ -25,11 +25,8 @@ comments: false
 <details> 
     <summary경력사항</summary> 
    
-    <table>
-  <tr>
-    <th>재직</th>
-    <th>경력</th>
-  </tr>
+<table>
+  
   <tr>
     <td>내용</td>
     <td>내용</td>
@@ -67,3 +64,17 @@ To learn how to install and use this theme check out the [Setup Guide](http://ta
 #[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
 
  
+    
+    <style>
+.table1-wrapper {
+  overflow-x: auto; /* responsive */
+}
+.table1 {
+  width: 100%; /* responsive */
+  border-collapse: collapse;
+}
+.table1 th, .table1 td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+</style>
