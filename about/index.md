@@ -18,14 +18,16 @@ comments: false
 * Study (개인 공부내용)
 * DB (데이터베이스 관련 이슈 정리)
 
+<BR><BR>
+    
 ## 업무경험 및 경력사항
 ---
-## 경력사항
+##### 경력사항
 <details> 
-    <summary>접기/펼치기</summary> 
+    <summary>접기/펼치기ㅁ</summary> 
     
     <!-- summary 아래 한칸 공백 두어야함 -->
-## 접은 제목 접은 내용 
+###### 접은 제목 접은 내용 
 </details> 
 
 
