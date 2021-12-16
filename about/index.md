@@ -58,7 +58,7 @@ comments: false
 <div markdown="1">
 <table>
   <tr>  
-    <td style="background-color: #ada980; width:30%; text-align: center;">경력 기술서</td>
+    <td style="background-color: #ada980; width:10%; text-align: center;">경력 기술서</td>
     <td>
 1. 사내 고객관리 시스템(CRM) 개발(2016.04~2016.06)<BR>
 - 사내 고객관리 시스템 개발<BR>
@@ -67,7 +67,7 @@ comments: false
       </td>
   </tr>
   <tr>
-    <td style="background-color: #ada980; width:30%; text-align: center;">
+    <td style="background-color: #ada980; width:10%; text-align: center;">
    </td>
     <td>
 2. 인텔리안 테크놀러지(http://intelliantech.co.kr/) 유지보수 운영 (2016.06 ~ )<BR>
@@ -76,7 +76,7 @@ comments: false
      </td>
   </tr>
     <tr>
-    <td style="background-color: #ada980; width:30%; text-align: center;">
+    <td style="background-color: #ada980; width:10%; text-align: center;">
    </td>
     <td>
 3. 뉴스킨 NFC 관련 웹사이트 제작(2016.11~2017.02)<BR>
@@ -87,7 +87,7 @@ comments: false
      </td>
   </tr>
   <tr>
-    <td style="background-color: #ada980; width:30%; text-align: center;">
+    <td style="background-color: #ada980; width:10%; text-align: center;">
    </td>
     <td>
 4. 강남 세브란스 진료표 웹 페이지개발(2017.04~2017.05)<BR>
@@ -97,7 +97,7 @@ comments: false
      </td>
   </tr>
   <tr>
-    <td style="background-color: #ada980; width:30%; text-align: center;">
+    <td style="background-color: #ada980; width:10%; text-align: center;">
    </td>
     <td>
 5. I-Vision SaaS 솔루션 고도화(2017.08~2018.01)<BR>
@@ -106,7 +106,7 @@ comments: false
      </td>
   </tr>
   <tr>
-    <td style="background-color: #ada980; width:30%; text-align: center;">
+    <td style="background-color: #ada980; width:10%; text-align: center;">
    </td>
     <td>
 6. IOT 스마트 요양원 개발(2018.02 ~ 03)<BR>
@@ -115,7 +115,7 @@ comments: false
      </td>
   </tr>
 <tr>
-<td style="background-color: #ada980; width:30%; text-align: center;">
+<td style="background-color: #ada980; width:10%; text-align: center;">
 </td>
 <td>
 7. I-Vision Shelf order 페이지 개발(2018.04 ~ 05)<BR>
@@ -124,7 +124,7 @@ comments: false
  </td>
 </tr>
 <tr>
-<td style="background-color: #ada980; width:30%; text-align: center;">
+<td style="background-color: #ada980; width:10%; text-align: center;">
 </td>
 <td>
 8. YES24 영화 사이트 관리
