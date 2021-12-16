@@ -27,7 +27,7 @@ comments: false
 <div markdown="1">
 <table>
   <tr>
-    <td style="background-color: #bbac9f; width:30%; text-align: center;">예스이십사 ENT개발팀 / 사원
+    <td style="background-color: #bbac9f; width:30%; text-align: center;">예스이십사 ENT개발팀<BR>사원<BR>
         <BR>
         (2018. 08 ~ 재직중)</td>
     <td>
@@ -38,7 +38,7 @@ comments: false
       </td>
   </tr>
   <tr>
-    <td style="background-color: #bbac9f; width:30%; text-align: center;">인텔리안 시스템즈 DS사업부 / 사원 
+    <td style="background-color: #bbac9f; width:30%; text-align: center;">인텔리안 시스템즈 DS사업부<BR>사원<BR>
     <BR>
     (2016. 04 ~ 2018. 08)  </td>
     <td>
