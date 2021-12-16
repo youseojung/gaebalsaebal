@@ -5,7 +5,9 @@ tags: [about, Jekyll, theme, moon]
 date: 2018-01-01
 comments: false
 ---
-    
+
+
+<img src="https://youseojung.github.io/assets/img/gaebalsaebal_22.png"  style="border-radius: 70%;" width="370" height="370">
 <center><a href="http://youseojung.github.io"><b>서정의 gitBlog</b></a> 입니다.</center>
 
 ## Features (post 안내) 
