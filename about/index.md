@@ -22,12 +22,11 @@ comments: false
     
 ## 업무경험 및 경력사항
 ---
-##### 경력사항
 <details> 
-    <summary>접기/펼치기ㅁ</summary> 
+    <summary>#### 경력사항</summary> 
     
     <!-- summary 아래 한칸 공백 두어야함 -->
-###### 접은 제목 접은 내용 
+
 </details> 
 
 
