@@ -42,5 +42,7 @@ https://developers.google.com/web/fundamentals/performance/http2?hl=ko
 Qualys SSL Labs Service  안전한 상태인지 점검해주는 사이트 
 https://www.qualys.com/
 
+![TLSSSL](/IMG/postImg/TLSSSL_SAT.PNG)
+
 
 ***
