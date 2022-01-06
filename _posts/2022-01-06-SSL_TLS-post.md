@@ -74,7 +74,14 @@ https://developers.google.com/web/fundamentals/performance/http2?hl=ko
 페이지 로드 시간(PLT)을 50% 줄입니다.
 
 
+
+
 Qualys SSL Labs Service  안전한 상태인지 점검해주는 사이트 : <https://www.qualys.com>
+
+운영하고 있는 서버를 조회하면 아래와 같이 등급이 표시되고
+![TLSSSL](/IMG/postImg/sslreportbyQualys.PNG)
+해당 프로토콜이 막아져있는지 아닌지 확인 할 수 있다.
+![TLSSSL](/IMG/postImg/sslreportbyQualysprotocol.PNG)
 
 ![TLSSSL](/IMG/postImg/TLSSSL_SAT.PNG)
 
