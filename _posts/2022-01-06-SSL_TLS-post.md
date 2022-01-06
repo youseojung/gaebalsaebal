@@ -68,12 +68,16 @@ HTTPS는 웹사이트를 SSL/TLS 인증서로 보안하는 경우 URL 창에 표
 사용자는 브라우저 바의 잠금 기호를 클릭하여 인증서 발행, 
 
 
-HTTP2 관련 
-https://developers.google.com/web/fundamentals/performance/http2?hl=ko
+HTTP2 관련 참고 링크
+<https://developers.google.com/web/fundamentals/performance/http2?hl=ko>
 
 페이지 로드 시간(PLT)을 50% 줄입니다.
+HTTP/2 주요목표
+- 전체요청을 통해 지연 시간 줄여줌
+- 응답 다중화
+- HTTP 헤더 필드의 효율접 압축 -> 프로토콜 오버헤드 최소화
 
-
+페이지 로드 시간(PLT)이 단축되는 효과를 볼 수 있다.
 
 
 Qualys SSL Labs Service  안전한 상태인지 점검해주는 사이트 : <https://www.qualys.com>
