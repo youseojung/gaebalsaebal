@@ -33,18 +33,6 @@ comments: true
 </table>
 
 
-
-[TO-BE]
-2.1	영화 서비스를 백엔드/프론트로 분리하고 MVC 디자인 패턴으로 리팩토링
-2.2	영화 이벤트 유형 템플릿화 하여 관리자 사이트 기능으로 개발
-2.3	플래시 소스 제거 후 배너/메인 화면 설정을 관리자 사이트 기능으로 개발
-2.4	영화 예매 공통 서비스를 모듈화 하여 극장 API 개발
-2.5	극장사에서 추가된 데이터들은 모델링 되어 코드별로 관리되어 별도로 등록절차 없이 적용가능
-2.6	로그 내용 및 경로 개선
-2.6.1	요청/응답 내역 기록
-2.6.2	주문번호만으로 사용자의 서비스 이용경로 파악 가능
-
-
 [AS-IS]
 <ol>
   <li>웹폼 프로젝트로 개발(동일 메서드 중복)</li>
@@ -73,11 +61,9 @@ comments: true
 
 [사이트 이미지]
 
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktmobilemoviemain.PNG.PNG">
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktwebmoviemain.PNG">
-
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktmobilemoviecardlist.PNG.PNG">
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktwebmoviecardlist.PNG">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/moviemain.png">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/moviemain2.png">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/moviemain3.png">
 
 
 <style>
