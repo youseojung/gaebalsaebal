@@ -2,7 +2,7 @@
 layout: post
 title: "영화 어드민 사이트 개편"
 date: 2019-04-01
-excerpt: "영화 어드민 사이트 개편"
+excerpt: "FLASH로 개발된 구어드민 사이트 고도화"
 Portfolio: true
 comments: true
 ---
