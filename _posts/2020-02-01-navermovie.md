@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "제휴사(네이버) 영화 서비스 개편"
-date: 2019-09-01
+date: 2020-02-01
 excerpt: "극장 API 연동 및 제휴사(네이버) 영화 예매사이트 리뉴얼"
 Portfolio: true
 comments: true
@@ -12,7 +12,6 @@ comments: true
 ### 프로젝트 소개
 
 멀티플렉스 극장들의 예매 서비스 확대로 제휴사 페이지의 예매 프로세스 변경이 필요하여 네이버 영화 예매서비스를 중점적으로 진행
-
 
 <table class="type09">
   <thead>
@@ -26,9 +25,8 @@ comments: true
   <tr>
     <td>2019.09 ~ 2020.03</td>
     <td>백앤드 및 프론트 개발</td>
-    <td>IIS,Window,,.NET,MS-SQL,프로시저,JQUERY</td>
+    <td>IIS,Window,웹폼프로젝트,ASP.NET,MS-SQL,프로시저,JQUERY</td>
   </tr>
-
   </tbody>
 </table>
 
@@ -55,9 +53,9 @@ comments: true
 
 [사이트 이미지]
 
-<img src="{{ site.url }}/IMG/PortFolio/YES24/moviemain.png">
-<img src="{{ site.url }}/IMG/PortFolio/YES24/moviemain2.png">
-<img src="{{ site.url }}/IMG/PortFolio/YES24/moviemain3.png">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/메인화면.PNG">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/지역별극장.PNG">
+
 
 
 <style>
@@ -90,7 +88,3 @@ table.type09 td {
 }
 </style>
 
-
-
-
-https://github.com/youseojung/LogMoveDaemon
