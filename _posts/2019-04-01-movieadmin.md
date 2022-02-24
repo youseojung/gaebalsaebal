@@ -12,10 +12,23 @@ comments: true
 
 웹브라우저의 FLASH 기능 지원종료로 인하여 신규 관리자 사이트로 이전하며 대용량 통계 데이터를 다운받고 라이브러리의 속도개선과 경량화에 초점을 맞추어 개발한 개편 프로젝트
 
-| 기간 | 담당부분 | 개발환경 |
-|---|:---:|---:|
-| `2019.04 ~ 2020.03` | 백앤드 및 프론트 개발 | `Window``.Net``C#``MS-SQL``프로시저``JQUERY``MVC``GIT``Jquery` |
+<table class="type09">
+  <thead>
+  <tr>
+    <th scope="cols">기간</th>
+    <th scope="cols">담당부분</th>
+    <th scope="cols">개발환경</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>2019.04 ~ 2020.03</td>
+    <td>백앤드 및 프론트 개발</td>
+    <td>IIS,Window,.NET,C#,MS-SQL,프로시저,JQUERY,Git</td>
+  </tr>
 
+  </tbody>
+</table>
 [AS-IS]
 <ol>
     <li>플래시로 개발 되어 있어 유지보수 어려움</li>
@@ -30,15 +43,42 @@ comments: true
 </ol>
 
 
-{% capture images %}
 
-!(https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/PortFolio/YES24/sktmobilemoviecardlist.PNG.PNG "SKT T MEMBERSHIP VIP 모바일 메인 이미지")
-!(https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/PortFolio/YES24/sktwebmoviemain.PNG "SKT T MEMBERSHIP VIP PC 메인 이미지")
+[사이트 이미지]
+
+<img src="{{ site.url }}/IMG/PortFolio/YES24/sktmobilemoviemain.PNG.PNG">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/sktwebmoviemain.PNG">
+
+<img src="{{ site.url }}/IMG/PortFolio/YES24/sktmobilemoviecardlist.PNG.PNG">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/sktwebmoviecardlist.PNG">
 
 
-!(https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/PortFolio/YES24/sktwebmoviecardlist.PNG  "SKT T MEMBERSHIP VIP PC이미지")
-!(https://raw.githubusercontent.com/youseojung/youseojung.github.io/master/IMG/PortFolio/YES24/sktmobilemoviecardlist.PNG.PNG "SKT T MEMBERSHIP VIP 모바일 카드 이미지")
+<style>
+table.type09 {
+  border-collapse: collapse;
+  text-align: left;
+  line-height: 1.5;
 
-
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+}
+table.type09 thead th {
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  color: #6a6e73;
+  border-bottom: 3px solid #7f8183;
+}
+table.type09 tbody th {
+  width: 150px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+  background: #f3f6f7;
+}
+table.type09 td {
+  width: 350px;
+  padding: 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+}
+</style>
