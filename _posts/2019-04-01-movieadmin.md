@@ -26,9 +26,12 @@ comments: true
     <td>백앤드 및 프론트 개발</td>
     <td>IIS,Window,.NET,C#,MS-SQL,프로시저,JQUERY,Git</td>
   </tr>
-
   </tbody>
 </table>
+
+
+<a href="{{ site.url }}/FILE/YES24 영화 개편_관리자_V.1.1.pptx" target="_blank"><button type="button" class="btn btn-outline-secondary btn-sm"></button></a>
+
 [AS-IS]
 <ol>
     <li>플래시로 개발 되어 있어 유지보수 어려움</li>
