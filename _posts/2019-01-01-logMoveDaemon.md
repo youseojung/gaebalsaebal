@@ -8,7 +8,7 @@ tag:
 comments: true
 ---
 
-<a class="btn btn-dark" href="https://github.com/youseojung/LogMoveDaemont">깃허브</a>
+<a class="btn btn-dark" href="https://github.com/youseojung/LogMoveDaemon">깃허브</a>
 
 sevenzip을 이용하여 파일을 압축하고 백업 대상으로 옮긴 뒤 삭제하는 로직
 SettingConfig.xml 에서 설정해주면됨
