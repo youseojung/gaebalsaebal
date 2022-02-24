@@ -46,11 +46,10 @@ comments: true
 
 [사이트 이미지]
 
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktmobilemoviemain.PNG.PNG">
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktwebmoviemain.PNG">
-
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktmobilemoviecardlist.PNG.PNG">
-<img src="{{ site.url }}/IMG/PortFolio/YES24/sktwebmoviecardlist.PNG">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/movieadmin.png">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/movieadmin2.png">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/movieadmin3.png">
+<img src="{{ site.url }}/IMG/PortFolio/YES24/movieadmin5.png">
 
 
 <style>
