@@ -29,9 +29,12 @@ comments: true
 요청헤더(Request Header)
 ---
 - Host
-> 서버의 도메인 네임이 나타나는 부분입니다(포트 포함). Host 헤더는 반드시 하나가 존재해야 합니다.
+> 서버의 도메인 네임이 나타나는 부분입니다(포트 포함). Host 헤더는 반드시 하나가 존재해야 합니다.(http 1.1 은 필수)
+- Cookie
+> 서버로부터 받은 쿠키를 다시 서버에게 보냄
 - User-Agent
-> 현재 사용자가 어떤 클라이언트(운영체제와 브라우저 같은 것)를 이용해 요청을 보냈는지 나옵니다.
+> 현재 사용자가 어떤 클라이언트 정보(운영체제와 브라우저버전 같은 것)를 이용해 요청을 보냈는지 나옴 
+(핸드폰으로접속?pc로접속? 알 수 있음)
 - Accept
 > * Accept 헤더는 요청을 보낼 때 서버에 이런 타입(MIME)의 데이터를 보내줬으면 좋겠다고 명시할 때 사용
 > * Accept-Encoding, Accept-Charset, Accept-Language 등이 있음
@@ -46,7 +49,10 @@ comments: true
 > Referer은 오타. Referrer가 표준어인데 실수로 Referer로 만들었다고 함
 
 응답헤더(Response Header)
+response의정보 , 서버의 정보 , 클라이언트에 대한 추가정보 요구 
 ---
+-Age
+> * 리소스의 지정 경과시간 (캐시서버가 오리진 서버를 언제 마지막으로 확인했는지?)
 - Access-Control-Allow-Origin
 > * 요청을 보내는 프론트 주소와 받는 백엔드 주소가 다르면 CORS 에러가 발생하는데요. 이 때 서버에서 응답 메시지 Access-Control-Allow-Origin 헤더에 프론트 주소를 적어주어야 에러가 나지 않습니다.
 > * Access-Control-Allow-Origin: www.zerocho.com
@@ -60,11 +66,42 @@ comments: true
 > 응답 본문을 브라우저가 어떻게 표시해야 할지 알려주는 헤더입니다. inline인 경우 웹페이지 화면에 표시되고, attachment인 경우 다운로드
 > * Content-Disposition: inline
 > * Content-Disposition: attachment; filename='filename.csv'
+- Etag
+> * 리소스 특정하기 위한 정보 (리소스 갱신 할때 Etag도 갱신됨)
 - Location
 > * 300번대 응답이나 201 Created 응답일 때 어느 페이지로 이동할지를 알려주는 헤더
 > * HTTP/1.1 302 Found Location: / 
 > 이런 응답이 왔다면 브라우저는 / 주소로 리다이렉트합니다.
 - Content-Security-Policy
 > 다른 외부 파일들을 불러오는 경우, 차단할 소스와 불러올 소스를 여기에 명시
+
+쿠키 헤더 필드
+유저 식벼로가 상태 관리에 사용하는 쿠키
+---
+1. Set-Cookie : 서버에서 클라이언트로 쿠키를 포함하여 응답
+2. Cookie : 클라이언트가 서버에서 받은 쿠키를 저장하고 http 요청 시 서버로 전달
+
+
+기타헤더필드
+X-XXS-Projection
+:크로스 사이트 스크립팅(xss)보호기능 필터 제어
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
